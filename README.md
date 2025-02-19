@@ -1,2 +1,2 @@
 # PyBass
-PyBass by RikkoMatsumatoOfficial(Python Library for Un4Seen BASS)
+This is My First Library for Un4Seen BASS(Python Library)... So Enjoy to use this!!!
