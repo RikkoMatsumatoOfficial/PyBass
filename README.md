@@ -6,6 +6,10 @@
 
 This is My First Library for Un4Seen BASS(Python Library)... So Enjoy to use this!!!
 
+# Examples(For This Library)
+
+[Initialization .ini File For Playing Sound Or Music](https://github.com/RikkoMatsumatoOfficial/PyBassWithLib_ConfigINI)
+
 ## Donations
 
 [DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
