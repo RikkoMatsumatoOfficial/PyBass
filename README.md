@@ -1,7 +1,7 @@
 # PyBass
 
 > [!CAUTION]
-> Command For Installing My Python Library for UN4SEEN BASS: pip install git+https://github.com/RikkoMatsumatoOfficial/PyBass
+> Created Batch Script for Installing PyBass Library: [Link](https://github.com/RikkoMatsumatoOfficial/PyBass/blob/main/PyBass-InstallWithGIT-Batch/install.bat)
 
 
 This is My First Library for Un4Seen BASS(Python Library)... So Enjoy to use this!!!
