@@ -9,7 +9,7 @@
 This is My First Library for Un4Seen BASS(Python Library)... So Enjoy to use this!!!
 
 > [!IMPORTANT]
-> If you want to Compile You're Program with my Library via PyInstaller, you need add this command: --collect-all "PyBass"**!!!**
+> If you want to Compile You're Program with my Library via PyInstaller, need add this command: --collect-all "PyBass"**!!!**
 >
 > This will be works!!!
 
