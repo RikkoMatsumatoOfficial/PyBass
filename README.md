@@ -13,6 +13,7 @@ This is My First Library for Un4Seen BASS(Python Library)... So Enjoy to use thi
 >
 > This will be works!!!
 
+**P.S: Soon will be Added Support Linux(DEBIAN)!!!**
 # Examples(For This Library)
 
 [Initialization .ini File For Playing Sound Or Music](https://github.com/RikkoMatsumatoOfficial/PyBassWithLib_ConfigINI)
